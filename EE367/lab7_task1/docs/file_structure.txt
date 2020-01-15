@@ -1,0 +1,6 @@
+The file structure is as follow.
+Include folder has .h header
+src folder has .c src files
+obj folder is the .o files
+bin is the compiled project
+doc is writing stuff here
